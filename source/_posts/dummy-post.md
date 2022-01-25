@@ -1,5 +1,5 @@
 ---
-title: '01 - Dummy Post'
+title: 'Whoami'
 date: 2020-10-28
 tags:
   - css
