@@ -6,7 +6,7 @@ tags:
   - javascript
   - php
   - laravel
-image: https://res.cloudinary.com/artisanstatic/sample.jpg
+image: https://res.cloudinary.com/dczvijeb1/image/upload/v1643132558/samples/sheep.jpg
 comments: true
 ---
 ## Heading 2
